@@ -1,0 +1,16 @@
+This is the famous game of tetris implemented in C++ OOP with SDL libraries.
+So it require SDL libraries to run...
+
+************************************************
+Commands to play:
+	-RIGHT:	move to right
+	-LEFT:	move to left
+	-DOWN:	increment velocity
+	-SPACE:	rotate the piece
+************************************************
+
+To install get SDL libraries:
+- apt-get install libsdl1.2-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev
+
+And than make:
+- sudo make
